@@ -1,5 +1,5 @@
 # instagram-bot-script
-A bot to auto-like, auto-follow in Python.
+A bot to auto-like, auto-dislike, auto-follow, auto-unfollow in Python.
 
 ## Dependencies
   
